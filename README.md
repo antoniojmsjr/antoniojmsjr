@@ -1,4 +1,4 @@
-## Hello, World!  👋
+## Hello World!  👋
 
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=antoniojmsjr)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/antoniojmsjr/)](https://br.linkedin.com/in/antoniojmsjr)
