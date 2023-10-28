@@ -1,6 +1,5 @@
 ## Hello World!  👋
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=antoniojmsjr)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/antoniojmsjr/)](https://br.linkedin.com/in/antoniojmsjr)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:antoniojmsjr@gmail.com)](mailto:antoniojmsjr@gmail)
 [![Medium Badge](https://img.shields.io/badge/-Medium-fa6132?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@antoniojmsjr)](https://medium.com/@antoniojmsjr)
