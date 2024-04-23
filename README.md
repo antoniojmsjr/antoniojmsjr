@@ -5,6 +5,7 @@
 [![Medium Badge](https://img.shields.io/badge/-Medium-fa6132?style=flat&logo=medium&logoColor=white&link=https://medium.com/@antoniojmsjr)](https://medium.com/@antoniojmsjr)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/antoniojmsjr)](https://t.me/antoniojmsjr)
 [![Followers Github](https://img.shields.io/github/followers/antoniojmsjr?label=Followers)](https://github.com/antoniojmsjr)
+[![Profile Views](https://komarev.com/ghpvc/?username=antoniojmsjr&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/antoniojmsjr)
 
 <!--
 **antoniojmsjr/antoniojmsjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
