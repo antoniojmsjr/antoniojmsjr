@@ -1,4 +1,4 @@
-## Hello World!  👋
+## Hello World!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/antoniojmsjr/)](https://br.linkedin.com/in/antoniojmsjr)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:antoniojmsjr@gmail.com)](mailto:antoniojmsjr@gmail)
