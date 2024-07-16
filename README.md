@@ -9,7 +9,7 @@
 
 <br/>
 
-| <a href="https://github.com/antoniojmsjr"><img align="center" src="https://antoniojmsjr-github-readme-stats.vercel.app/api?username=antoniojmsjr&show_icons=true&include_all_commits=true&hide_border=true"/></a> | <a href="https://github.com/antoniojmsjr/antoniojmsjr"><img align="center" src="https://antoniojmsjr-github-readme-stats.vercel.app/api/top-langs/?username=antoniojmsjr&layout=compact&hide_border=true"/></a> |
+| <a href="https://github.com/antoniojmsjr"><img align="center" src="https://antoniojmsjr-github-readme-stats.vercel.app/api?username=antoniojmsjr&show_icons=true&include_all_commits=true&hide_border=true"/></a> | <a href="https://github.com/antoniojmsjr"><img align="center" src="https://antoniojmsjr-github-readme-stats.vercel.app/api/top-langs/?username=antoniojmsjr&layout=compact&hide_border=true"/></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
