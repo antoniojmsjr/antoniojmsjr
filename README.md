@@ -7,24 +7,11 @@
 [![Followers Github](https://img.shields.io/github/followers/antoniojmsjr?label=Followers)](https://github.com/antoniojmsjr)
 [![Profile Views](https://komarev.com/ghpvc/?username=antoniojmsjr&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/antoniojmsjr)
 
-<a href="https://github.com/antoniojmsjr/github-readme-stats">
-  <img align="center" src="https://antoniojmsjr-github-readme-stats.vercel.app/api?username=antoniojmsjr&show_icons=true&count_private=true" />
-</a>
-<a href="https://github.com/antoniojmsjr/github-readme-stats">
-  <img align="center" src="https://antoniojmsjr-github-readme-stats.vercel.app/api/top-langs/?username=antoniojmsjr" />
-</a>
+| <a href="https://github.com/antoniojmsjr"><img align="center" src="https://antoniojmsjr-github-readme-stats.vercel.app/api?username=antoniojmsjr&show_icons=true&include_all_commits=true&hide_border=true"/></a> | <a href="https://github.com/antoniojmsjr/antoniojmsjr"><img align="center" src="https://antoniojmsjr-github-readme-stats.vercel.app/api/top-langs/?username=antoniojmsjr&layout=compact&hide_border=true"/></a> |
+| ------------- | ------------- |
 
-#### Top Repositories
-<a href="https://github.com/antoniojmsjr/MultithreadingFireDAC">
-  <img align="center" src="https://antoniojmsjr-github-readme-stats.vercel.app/api/pin/?username=antoniojmsjr&repo=MultithreadingFireDAC"/>
-</a>
-<a href="https://github.com/antoniojmsjr/FastReportExport">
-  <img align="center" src="https://antoniojmsjr-github-readme-stats.vercel.app/api/pin/?username=antoniojmsjr&repo=FastReportExport"/>
-</a>
 <br/><br/>
-<a href="https://github.com/antoniojmsjr/BuscaCEP">
-  <img align="center" src="https://antoniojmsjr-github-readme-stats.vercel.app/api/pin/?username=antoniojmsjr&repo=BuscaCEP"/>
-</a>
-<a href="https://github.com/antoniojmsjr/Base64Bitmap">
-  <img align="center" src="https://antoniojmsjr-github-readme-stats.vercel.app/api/pin/?username=antoniojmsjr&repo=Base64Bitmap"/>
-</a>
+<a href="https://github.com/antoniojmsjr/MultithreadingFireDAC"><img align="center" src="https://antoniojmsjr-github-readme-stats.vercel.app/api/pin/?username=antoniojmsjr&repo=MultithreadingFireDAC&hide_border=true"/></a>
+<a href="https://github.com/antoniojmsjr/FastReportExport"><img align="center" src="https://antoniojmsjr-github-readme-stats.vercel.app/api/pin/?username=antoniojmsjr&repo=FastReportExport&hide_border=true"/></a>
+<a href="https://github.com/antoniojmsjr/BuscaCEP"><img align="center" src="https://antoniojmsjr-github-readme-stats.vercel.app/api/pin/?username=antoniojmsjr&repo=BuscaCEP&hide_border=true"/></a>
+<a href="https://github.com/antoniojmsjr/Base64Bitmap"><img align="center" src="https://antoniojmsjr-github-readme-stats.vercel.app/api/pin/?username=antoniojmsjr&repo=Base64Bitmap&hide_border=true"/></a>
