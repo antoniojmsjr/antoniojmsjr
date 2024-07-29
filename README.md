@@ -21,5 +21,6 @@
 #### Launch
 
 #### Partners Repositories
+<a href="https://github.com/HashLoad/horse"><img align="center" src="https://antoniojmsjr-github-readme-stats.vercel.app/api/pin/?username=HashLoad&repo=horse&hide_border=true&show_owner=true"/></a>
 <a href="https://github.com/viniciussanchez/dataset-serialize"><img align="center" src="https://antoniojmsjr-github-readme-stats.vercel.app/api/pin/?username=viniciussanchez&repo=dataset-serialize&hide_border=true&show_owner=true"/></a>
 <a href="https://github.com/Code4Delphi/Delphi-AI-Developer"><img align="center" src="https://antoniojmsjr-github-readme-stats.vercel.app/api/pin/?username=Code4Delphi&repo=Delphi-AI-Developer&hide_border=true&show_owner=true"/></a>
