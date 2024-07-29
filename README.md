@@ -17,3 +17,8 @@
 <a href="https://github.com/antoniojmsjr/FastReportExport"><img align="center" src="https://antoniojmsjr-github-readme-stats.vercel.app/api/pin/?username=antoniojmsjr&repo=FastReportExport&hide_border=true"/></a>
 <a href="https://github.com/antoniojmsjr/BuscaCEP"><img align="center" src="https://antoniojmsjr-github-readme-stats.vercel.app/api/pin/?username=antoniojmsjr&repo=BuscaCEP&hide_border=true"/></a>
 <a href="https://github.com/antoniojmsjr/Base64Bitmap"><img align="center" src="https://antoniojmsjr-github-readme-stats.vercel.app/api/pin/?username=antoniojmsjr&repo=Base64Bitmap&hide_border=true"/></a>
+
+#### Launch
+
+#### Partners Repositories
+<a href="https://github.com/viniciussanchez/RESTRequest4Delphi"><img align="center" src="https://antoniojmsjr-github-readme-stats.vercel.app/api/pin/?username=viniciussanchez&repo=RESTRequest4Delphi&hide_border=true&show_owner=true"/></a>
