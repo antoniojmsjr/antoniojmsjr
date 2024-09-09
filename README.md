@@ -19,6 +19,7 @@
 <a href="https://github.com/antoniojmsjr/Base64Lib"><img align="center" src="https://antoniojmsjr-github-readme-stats.vercel.app/api/pin/?username=antoniojmsjr&repo=Base64Lib&hide_border=true"/></a>
 
 #### Launch
+<a href="https://github.com/antoniojmsjr/RESTClientLib"><img align="center" src="https://antoniojmsjr-github-readme-stats.vercel.app/api/pin/?username=antoniojmsjr&repo=RESTClientLib&hide_border=true"/></a>
 
 #### Community Repositories
 <a href="https://github.com/HashLoad/horse"><img align="center" src="https://antoniojmsjr-github-readme-stats.vercel.app/api/pin/?username=HashLoad&repo=horse&hide_border=true&show_owner=true"/></a>
